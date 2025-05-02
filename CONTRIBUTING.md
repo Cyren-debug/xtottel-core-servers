@@ -1,6 +1,6 @@
-# Contributing to Xtottel Core Servers
+# Contributing to Sendexa Servers
 
-Thank you for considering contributing to the **Xtottel Core Servers** project! Your contributions help improve the quality and functionality of the project, and we truly appreciate your efforts.
+Thank you for considering contributing to the **Sendexa Servers** project! Your contributions help improve the quality and functionality of the project, and we truly appreciate your efforts.
 
 Please follow the guidelines below to ensure a smooth and consistent contribution process.
 
@@ -10,7 +10,7 @@ Please follow the guidelines below to ensure a smooth and consistent contributio
 
 ### 1. **Fork the Repository**
 
-Start by forking the Xtottel Core Servers repository to your GitHub account. This allows you to make changes to your own copy of the project without affecting the main repository.
+Start by forking the Sendexa Servers repository to your GitHub account. This allows you to make changes to your own copy of the project without affecting the main repository.
 
 - Click the **Fork** button at the top-right of the repository page.
 
@@ -19,8 +19,8 @@ Start by forking the Xtottel Core Servers repository to your GitHub account. Thi
 After forking the repository, clone your fork to your local machine:
 
 ```bash
-git clone https://github.com/<your-username>/xtottel-core-servers.git
-cd xtottel-core-servers
+git clone https://github.com/<your-username>/sendexa-servers.git
+cd sendexa-servers
 ```
 
 ### 3. **Create a Branch**
@@ -57,7 +57,7 @@ git push origin feature-name
 
 ### 7. **Open a Pull Request**
 
-Now, go to your GitHub repository and open a **Pull Request** (PR) from your branch to the `main` branch of the Xtottel Core Servers repository. Provide a description of your changes, and make sure to reference any relevant issues.
+Now, go to your GitHub repository and open a **Pull Request** (PR) from your branch to the `main` branch of the Sendexa Servers repository. Provide a description of your changes, and make sure to reference any relevant issues.
 
 ---
 
@@ -98,5 +98,5 @@ If you find a bug or have an idea for an improvement, please feel free to open a
 
 ## Thank You!
 
-Your contributions are highly valued, and we appreciate your help in improving **Xtottel Core Servers**!
+Your contributions are highly valued, and we appreciate your help in improving **Sendexa Servers**!
 

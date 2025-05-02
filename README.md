@@ -1,6 +1,6 @@
-# Xtottel Core Servers
+# Sendexa Servers
 
-Xtottel Core Servers is an open-source project designed to provide scalable and reliable communication and payment infrastructure for the Xtottel ecosystem. The project includes the following core servers:
+Sendexa Servers is an open-source project designed to provide scalable and reliable communication and payment infrastructure for the Xtottel ecosystem. The project includes the following core servers:
 
 - SMPP Server (Short Message Peer-to-Peer)
 - SMTP Server (Simple Mail Transfer Protocol)
@@ -19,8 +19,7 @@ These services are intended to enable messaging, voice, payment, and verificatio
 - **SMTP Server**: Sends email notifications, OTPs, and system messages via the SMTP protocol.
 - **HTTP Server**: API endpoints for managing SMS, email, OTP, and other core services.
 - **OTP Server**: Secure OTP generation and verification for user authentication.
-- **IVR Server**: Interactive voice response for phone-based interactions.
-- **Payment Gateway**: Integrates with Xtottel’s XtoPay platform to enable secure payments.
+
 
 ---
 
@@ -55,10 +54,10 @@ Running the Servers
 You can run each server by navigating to its respective folder and starting the development environment:
 
 bash
-cd smpp-server
+cd smpp
 npm start
 
-cd ../smtp-server
+cd ../smtp
 npm start
 
 # Repeat for other servers...
@@ -68,7 +67,7 @@ We welcome contributions from developers! Please check the CONTRIBUTING.md for m
 
 
 
-### Tech Stack for Xtottel Core Servers:
+### Tech Stack for Sendexa Servers:
 
 1. **Programming Language:**
    - **TypeScript**: A superset of JavaScript that adds static typing, providing a robust development experience with improved tooling and error checking.
